@@ -1,4 +1,4 @@
-# **Lung Cancer Prediction using Machine Learning**
+# **Lung Cancer Prediction**
 
 This project builds an end-to-end machine learning pipeline to predict the likelihood of lung cancer based on clinical survey attributes. 
 The workflow includes data preprocessing, feature scaling, model training, and performance evaluation using multiple supervised learning algorithms.
